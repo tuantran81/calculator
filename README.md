@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+https://dev.azure.com/tuantran0691/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/tuantran81.calculator?branchName=master
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
